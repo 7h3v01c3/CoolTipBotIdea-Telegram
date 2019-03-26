@@ -1,5 +1,5 @@
-## IOCTip - I/O Coin tipbot for Telegram
-> Forked from [PandaTip-Telegram](https://github.com/DarthJahus/PandaTip-Telegram), by @DarthJahus
+## CoolTipBotIdea tipbot for Telegram
+> Forked from [I/O Coin Tipbot](https://github.com/DarthJahus/IOCTip-Telegram), which was forked from [Pandcoin Tipbot} (https://github.com/DarthJahus/PandaTip-Telegram), both by @DarthJahus
  
 ### Dependencies 
 
